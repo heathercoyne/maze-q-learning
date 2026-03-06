@@ -167,6 +167,7 @@ The reinforcement learning algorithms, training logic, and experiments were impl
 
 # Author
 
-Hu Xin  
+Heather Xin Coyne  
 Tsinghua University  
 Artificial Intelligence Course Project
+
